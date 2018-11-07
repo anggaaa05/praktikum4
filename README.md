@@ -19,7 +19,7 @@
 using namespace std;
 int main ()
 {
-    cout<< "Muhamad Amirul Fiqhi"<<endl;
+    cout<< "Angga Kurniadi Hermawan"<<endl;
     cout<< " ______________________________________________________________"<<endl;
     cout<< "|Algoritma Mencari Nilai Terbesar Dari Bilangan Yang Diinputkan|"<<endl;
     cout<< "|______________________________________________________________|"<<endl;
@@ -71,7 +71,7 @@ int main ()
 {
 
 
-    cout<< "|              Muhamad Amirul Fiqhi                   |"<<endl;
+    cout<< "|              Angga Kurniadi Hermawan                   |"<<endl;
     cout<< "|-----------------------------------------------------|"<<endl;
     cout<< "|Tugas Praktikum4"<< "Program Menghitung Total Belanja     |"<< endl;
     cout<< "|-----------------------------------------------------|" <<endl;
